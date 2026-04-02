@@ -3,4 +3,4 @@ Disallow: /
 Allow: /$
 Allow: /posts/
 
-Sitemap: https://hyhgfrgh.github.io/sitemap-index.xml
+Sitemap: https://github.com/hyhgfrgh/hyhgfrgh.github.io/sitemap-index.xml
